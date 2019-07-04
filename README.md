@@ -4,15 +4,16 @@ Implementation of statistics using Python
 Now we have...
 
 
-CLT (Central Limit Theorem) 
+    CLT (Central Limit Theorem) 
+
 
 Coming soon...
 
 
-Bayes Theorem
+    Bayes Theorem
 
-T-test
+    T-test
 
-Correlation
+    Correlation
 
 Feel free to clone and edit this repo !
