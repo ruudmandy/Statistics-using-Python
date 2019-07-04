@@ -15,5 +15,8 @@ Coming soon...
     T-test
 
     Correlation
+    
+    And more!
+
 
 Feel free to clone and edit this repo !
